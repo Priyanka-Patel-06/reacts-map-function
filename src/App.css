@@ -1,0 +1,17 @@
+.App {
+    text-align: center;
+    border: 10px solid rgb(10, 89, 199);
+    background-color: rgb(190, 223, 212);
+    margin: 95px;
+}
+
+table,
+th,
+td {
+    border: 5px solid red;
+    border-collapse: collapse;
+}
+
+table {
+    width: 100%;
+}
